@@ -27,6 +27,10 @@ Artificial Intelligence (AI) weather prediction (AIWP) models are powerful tools
 * Derivations of conservation schemes: [mass conservation](https://github.com/yingkaisha/CREDIT-physics-run/blob/main/physics/DEV01_global_mass_conservation_plevel.ipynb), [energy conservation](https://github.com/yingkaisha/CREDIT-physics-run/blob/main/physics/DEV01_global_energy_conservation_plevel.ipynb), [Pytorch integration](https://github.com/yingkaisha/CREDIT-physics-run/blob/main/physics/DEV02_conservation_schemes_pytorch.ipynb)
 * Results: [Dry air mass conservation](https://github.com/yingkaisha/CREDIT-physics-run/blob/main/visualization/FIG03_dry_air_conserve.ipynb), [Moisture budget conservation](https://github.com/yingkaisha/CREDIT-physics-run/blob/main/visualization/FIG04_water_conserve.ipynb), [Total atmospheric energy conservation](https://github.com/yingkaisha/CREDIT-physics-run/blob/main/visualization/FIG05_energy_conserve.ipynb), [SEEPS](https://github.com/yingkaisha/CREDIT-physics-run/blob/main/visualization/FIG11_SEEPS.ipynb)
 
+## Model weights
+
+(coming soon)
+
 ## Contact
 
 * Yingkai Sha <yingkaisha@gmail.com>
