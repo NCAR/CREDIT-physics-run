@@ -29,7 +29,7 @@ Artificial Intelligence (AI) weather prediction (AIWP) models are powerful tools
 
 ## Model weights
 
-(coming soon)
+Model weights and configuration files are available at: https://huggingface.co/yingkaisha/FuXi-plevel-1deg
 
 ## Contact
 
