@@ -1,3 +1,10 @@
+data_preprocessing/data_config_6h.yml
+data_preprocessing/scripts/
+physics/scripts/
+verification/scripts/
+verification/verif_config.yml
+visualization/plot_config.yml
+
 data_preprocessing/qsub*
 data_preprocessing/*.csv
 
